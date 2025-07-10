@@ -157,7 +157,7 @@
     height: 696.77px;
     border-radius: 14px;
     background-color: #2524323a;
-    margin: 0 auto;
+    margin: 100px auto;
     text-align: center;
 }
 .ready-title{
@@ -179,4 +179,48 @@
     width: 816px;
     height: 355px;
     border-radius: 48px;
+}
+/* Newwsletter Secttion */
+.newsletter{
+    width: 1140px;
+    height: 632px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+}
+.news-title{
+    font-weight: 700;
+    font-size: 97px;
+    color: #000000;
+    width: 528px;
+}
+.text-area{
+    width: 433px;
+    height: 135px;
+    padding: 20px 32px;
+    border-radius: 10px;
+}
+.name{
+    width: 433px;
+    height: 70px;
+    padding: 20px 32px;
+    border-radius: 10px;
+    background-color: #2524321f;
+    border: none;
+}
+.label{
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 10px;
+}
+.news-btn{
+    width: 497px;
+    height: 62px;
+    border: none;
+    border-radius: 10px;
+
 }

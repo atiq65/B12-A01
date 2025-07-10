@@ -104,3 +104,50 @@
     font-weight: 700;
     font-size: 16px;
 }
+/* Productive Section */
+.productive-section{
+    width: 1140px;
+    height: 306px;
+    border-radius: 24px;
+    background-color: #4d47ff1c;
+    margin: 120px auto;
+}
+.pro-title{
+    font-weight: 700;
+    font-size: 38px;
+    text-align: center;
+}
+.productive-conteiner{
+    padding-top: 40px;
+}
+.productive-conteiner-1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.percentage{
+    width: 180px;
+    height: 121px;
+}
+.per-title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    font-size: 80px;
+}
+.per-description{
+    font-weight: 400;
+    font-size: 20px;
+    color: #2524327e;
+}
+/* Review Section */
+.review{
+    width: 1140px;
+    height: 342px;
+    margin: 137px auto;
+
+}
+.review-title{
+    font-weight: 700;
+    font-size: 42px;
+    text-align: center;
+}

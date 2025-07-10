@@ -151,3 +151,32 @@
     font-size: 42px;
     text-align: center;
 }
+/* Ready to focus better section */
+.ready-section{
+    width: 1140px;
+    height: 696.77px;
+    border-radius: 14px;
+    background-color: #2524323a;
+    margin: 0 auto;
+    text-align: center;
+}
+.ready-title{
+    font-weight: 700;
+    font-size: 50px;
+    color: #000000;
+    padding-top: 71px;
+    margin-bottom: 20px;
+}
+.ready-btn{
+    width: 195px;
+    height: 48px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ready-img{
+    width: 816px;
+    height: 355px;
+    border-radius: 48px;
+}

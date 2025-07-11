@@ -251,3 +251,38 @@
     border-radius: 10px;
 
 }
+/* Footer Section */
+footer{
+    width: 1440px;
+    height: 428px;
+    background-color: #25243231;
+    margin-top: 14px;
+}
+.footer-logo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    font-size: 100px;
+    margin-bottom: 8px;
+}
+ul{
+    display: flex;
+    gap: 48px;
+    margin-top: 20px;
+    text-align: center;
+    justify-content: space-around;
+    margin-left: 65px;
+    margin-right: 65px;
+}
+ul li a{
+    text-decoration: none;
+    color: #252432;
+}
+ul li{
+    list-style: none;
+}
+.footer-conteiner{
+    width: 531px;
+    height: 221px;
+    padding: 104px 455px;
+    text-align: center;
+}

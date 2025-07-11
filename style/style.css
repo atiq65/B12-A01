@@ -90,6 +90,9 @@
     justify-content: space-between;
     align-items: center;
 }
+.action-conteiner img{
+    border-radius: 48px;
+}
 .action-title{
     font-weight: 700;
     font-size: 42px;

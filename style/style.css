@@ -157,7 +157,10 @@
     width: 1140px;
     height: 342px;
     margin: 137px auto;
-
+}
+.review img{
+    width: 40px;
+    height: 40px;
 }
 .checked{
     color: orange;
@@ -239,6 +242,7 @@
     height: 135px;
     padding: 20px 32px;
     border-radius: 10px;
+    margin-top: 10px;
 }
 .name{
     width: 433px;
@@ -247,19 +251,21 @@
     border-radius: 10px;
     background-color: #2524321f;
     border: none;
+    margin-top: 10px;
 }
 .label{
     font-weight: 500;
     font-size: 18px;
     color: #000000;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    margin-top: 10px;
+    /* margin-top: 10px; */
 }
 .news-btn{
     width: 497px;
     height: 62px;
     border: none;
     border-radius: 10px;
+    margin-top: 19px;
 }
 .news-btn:hover{
     background-color: orange;
@@ -268,8 +274,11 @@
 footer{
     width: 1440px;
     height: 428px;
-    background-color: #25243231;
+    background-color: #25243223;
     margin-top: 14px;
+}
+footer p{
+    color: #25243279;
 }
 .footer-logo{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -288,10 +297,13 @@ ul{
 }
 ul li a{
     text-decoration: none;
-    color: #252432;
+    color: #25243283;
 }
 ul li{
     list-style: none;
+}
+ul li a:hover{
+    color: #252432;
 }
 .footer-conteiner{
     width: 531px;

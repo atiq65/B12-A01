@@ -140,16 +140,43 @@
     color: #2524327e;
 }
 /* Review Section */
+.review-card-conteiner{
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+}
 .review{
     width: 1140px;
     height: 342px;
     margin: 137px auto;
 
 }
+.checked{
+    color: orange;
+    width: 16.67px;
+    height: 15.85px;
+    margin-bottom: 24px;
+}
+.review-conteiner{
+    width: 366.67px;
+    height: 243px;
+    border-radius: 14px;
+    background-color: #00000023;
+    padding: 24px;
+}
 .review-title{
     font-weight: 700;
     font-size: 42px;
     text-align: center;
+}
+.review-titl-2{
+    margin-bottom: 8px;
+}
+.info{
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    margin-top: 24px;
 }
 /* Ready to focus better section */
 .ready-section{

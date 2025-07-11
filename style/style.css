@@ -53,7 +53,9 @@
     height: 48px;
     border: none;
     border-radius: 10px;
-
+}
+.header-btn:hover{
+    background-color: orange;
 }
 .banner{
     width: 905px;
@@ -74,6 +76,9 @@
     border-radius: 10px;
     width: 174px;
     height: 48px;
+}
+.banner-btn:hover{
+    background-color: orange;
 }
 /* Action Section */
 .action-section{
@@ -103,6 +108,9 @@
     border-radius: 10px;
     font-weight: 700;
     font-size: 16px;
+}
+.action-btn:hover{
+    background-color: orange;
 }
 /* Productive Section */
 .productive-section{
@@ -202,6 +210,9 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.ready-btn:hover{
+    background-color: orange;
+}
 .ready-img{
     width: 816px;
     height: 355px;
@@ -249,7 +260,9 @@
     height: 62px;
     border: none;
     border-radius: 10px;
-
+}
+.news-btn:hover{
+    background-color: orange;
 }
 /* Footer Section */
 footer{

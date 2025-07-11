@@ -30,6 +30,7 @@
     height: 698px;
     background-image: url(../images/Hero-bg.png);
     background-repeat: no-repeat;
+    margin: 0 auto;
 }
 .nav{
     display: flex;
@@ -279,6 +280,7 @@ footer{
     height: 428px;
     background-color: #25243223;
     margin-top: 14px;
+    margin: 0 auto;
 }
 footer p{
     color: #25243279;
